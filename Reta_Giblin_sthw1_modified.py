@@ -1,12 +1,12 @@
-from optparse import TitledHelpFormatter
-from turtle import color, title
-from xml.dom.minidom import CharacterData
+#from optparse import TitledHelpFormatter
+#from turtle import color, title
+#from xml.dom.minidom import CharacterData
 import streamlit as st
 import random
 import altair as alt
 import numpy as np
 import pandas as pd
-from random import randint
+#from random import randint
 from vega_datasets import data
 
 st.header('Homework 1')
